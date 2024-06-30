@@ -31,7 +31,7 @@ int main()
     printf("Enter the string:\n");
     scanf("%[^'\n]s",arr);
 
-    pattern(arr);
+    pattern(arr);b  
 
     return 0;
 }
